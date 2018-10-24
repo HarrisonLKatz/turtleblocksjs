@@ -1,5 +1,4 @@
-Guide to Programming with Turtle Art
-====================================
+# Guide to Programming with Turtle Art
 
 Turtle Blocks expands upon what children can do with Logo and how it
 can be used as the underlying motivator for “improving” programming
